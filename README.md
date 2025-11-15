@@ -112,9 +112,6 @@ You must generate your own OAuth credentials.
 credentials_desktop.json
 ```
 
-🚫 **Never upload this file to GitHub.**
-
-(Your repo already includes a safe: `credentials_desktop.json.example`.)
 
 ---
 
